@@ -1,0 +1,11 @@
+import time
+c = input ("what has been the theme throughout the game? ")
+if c == "Titanfall 2" or c== "titanfall 2" or c == "Titan fall 2" or c == "titan fall 2":
+    print("well done your the winer of this game and will receive the prize soon, just email willjmcloughlin@gmail.com I beat your game, deal with it!")
+    time.sleep(20)
+
+else:
+    print ("sorry your incorrect")
+    time.sleep(3)
+    quit() 
+    
